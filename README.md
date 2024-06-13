@@ -11,6 +11,12 @@ ABC-80 微電腦是參考一本劉秋良編著的「Z80微電腦製作」內容�
 增加 RC2014 匯排流，
 等
 
+ascii_OK.ASM 為測試OK的監督程式，編譯使用 TASM
+
+ascii_OK.lst 編譯後烈表
+
+ascii_OK.hex 編譯後可燒錄檔
+
 <hr>
 
 ![alt text][def1]
