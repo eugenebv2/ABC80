@@ -22,3 +22,7 @@ ascii_OK.hex 編譯後可燒錄檔
 ![alt text][def1]
 
 [def1]: images/CIMG0218.JPG
+
+![alt text][def2]
+
+[def2]: images/CIMG0227.JPG
