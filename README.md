@@ -5,4 +5,4 @@ ABC - 80 a Z80 SBC
 
 ![alt text][def1]
 
-[def1]: images/CIMG_0218.jpg
+[def1]: images/CIMG0218.jpg
