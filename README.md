@@ -26,3 +26,18 @@ ascii_OK.hex 編譯後可燒錄檔
 ![alt text][def2]
 
 [def2]: images/CIMG0227.JPG
+
+<hr>
+2025/02 於拍賣網站二手書店購入
+
+![alt text][def3]
+
+[def3]: images/IMG_4918_S.JPG
+
+![alt text][def4]
+
+[def4]: images/IMG_4919.JPG
+
+![alt text][def5]
+
+[def5]: images/IMG_4920.JPG
