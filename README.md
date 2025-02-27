@@ -32,12 +32,12 @@ ascii_OK.hex 編譯後可燒錄檔
 
 ![alt text][def3]
 
-[def3]: images/IMG_4918_S.JPG
+[def3]: images/IMG_4918_S.jpg
 
 ![alt text][def4]
 
-[def4]: images/IMG_4919.JPG
+[def4]: images/IMG_4919.jpg
 
 ![alt text][def5]
 
-[def5]: images/IMG_4920.JPG
+[def5]: images/IMG_4920.jpg
